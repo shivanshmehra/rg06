@@ -1,0 +1,100 @@
+body {
+	
+
+ 
+  
+  
+}
+
+h1 {
+  color: #0c00f0;
+  text-align: center;
+}
+
+ul{
+	width:718px;
+	margin:0;
+	padding:0;
+	list-style:none;
+	height: 50px;
+	line-height:50px;
+	background-color: #2bf211;
+	font-family: Arial, Helvectica, sans-serif;
+	font-size?:1px ;
+}
+
+li{
+	float:left;
+	border-right:1px solid #efff0d;
+}
+
+a{
+	display:block;
+	padding: 0 28px ;
+	color:#0d05f0 ;
+	text-decoration: none;
+	
+}
+
+a:hover, .active a{
+	background-color: #156ee2;
+}
+
+.sign-up-form{
+	width:300px;
+	box-shadow:0 0 3px 0 rgba(0,0,0,0.3);
+	background:#fff;
+	padding:20px;
+	margin: 8% auto 0 ;
+	text-align:centre;
+	
+}
+
+.sign-up-form h2{
+	color:red;
+	margin-bottom:30px;
+}
+
+.input-box{
+	border-radius: 20px;
+	padding: 10px;
+	margin: 10px 0 ;
+	width: 100%;
+	border: 1px solid #999;
+	outline: none;
+}
+
+button{
+	color:#fff;
+	width: 250px;
+	padding: 10px;
+	border-radius: 20px;
+	font-size:15px;
+	margin: 10px 0;
+	border:none;
+	outline: none;
+	cursor:pointer;
+}
+
+.signup-btn{
+  background-color: #1c8adb;
+	
+}
+
+.goggle-btn{
+	background:#21afde;
+}
+
+hr{
+	margin-top: 20px;
+	width: 80% ;
+}
+
+.or{
+	background:#fff;
+	width: 30px;
+	margin:-19px auto 10px;
+}
+img{
+	width: 70px;
+}
