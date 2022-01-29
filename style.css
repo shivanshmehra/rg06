@@ -7,12 +7,12 @@ body {
 }
 
 h1 {
-  color: #0c00f0;
+  color: RED;
   text-align: center;
 }
 
 ul{
-	width:718px;
+	width:330px;
 	margin:0;
 	padding:0;
 	list-style:none;
